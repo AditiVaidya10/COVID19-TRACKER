@@ -1,4 +1,4 @@
-### COVID-19 Tracker 🦠📊
+#  COVID-19 Tracker 🦠📊
 
 Welcome to COVID-19 Tracker! Stay updated with the latest information on the pandemic effortlessly. Built with Vue.js, this tracker offers real-time data visualization, ensuring you're always in the know.
 
